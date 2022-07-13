@@ -1,0 +1,14 @@
+{
+  "name": "projectsavant",
+  "version": "1.0.0",
+  "description": "Server application written using express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohini Bali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
